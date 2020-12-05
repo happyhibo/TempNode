@@ -19,5 +19,14 @@
     <None Include="src\arduino folders read me.txt">
       <Filter>Misc Files</Filter>
     </None>
+    <None Include="TempNode_OTA.ino" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="__vm\.TempNode.vsarduino.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
